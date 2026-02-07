@@ -1,5 +1,3 @@
-# Congressional Alpha
-Do U.S. senators' stock trades show information alpha? An empirical analysis of 6,700+ trades (2012–2024) using CRSP, Fama-French, and public disclosure data.
 # Congressional Alpha: Do U.S. Senators Trade on Inside Information?
 
 An empirical analysis of 6,700+ disclosed U.S. Senate stock trades (2012–2024), testing whether senators earn abnormal returns and whether the public can profit by copying them.
